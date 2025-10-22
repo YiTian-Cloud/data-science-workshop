@@ -15,3 +15,13 @@ Thumbs.db
 
 # Big/local data (adjust as needed)
 data/
+
+# some file list
+Apache_Hadoop_Interview_QA.pdf
+*.log
+anthropic.ipynb
+autoMLx.ipynb
+automl.ipynb
+ociAutoML.ipynb
+ociModelDeployment.ipynb
+ocidataset.ipynb
