@@ -1,0 +1,33 @@
+name: localds2
+channels:
+  - defaults
+dependencies:
+  - vc
+  - vs2015_runtime
+  - libspatialindex
+  - pydot
+  - ipython
+  - scikit-learn
+  - libffi=3.4
+  - seaborn
+  - graphviz
+  - ipywidgets
+  - zeromq
+  - matplotlib
+  - jupyterlab
+  - python=3.11
+  - pyproj
+  - tk
+  - ucrt
+  - python-graphviz
+  - ipykernel
+  - geopandas=0.14.4
+  - numpy
+  - plotly
+  - pyzmq
+  - pandas
+  - shapely
+  - fiona
+  - rtree
+  - gdal
+prefix: C:\Users\ytian\miniconda3\envs\localds2

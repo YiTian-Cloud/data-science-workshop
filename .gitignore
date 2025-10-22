@@ -1,0 +1,17 @@
+# Python/Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Conda/Mamba
+.conda/
+.mamba/
+env/
+.env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Big/local data (adjust as needed)
+data/
